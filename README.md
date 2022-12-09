@@ -5,12 +5,13 @@ Once you’re ready to submit, make sure to check your work against the requirem
 
 As a reminder, the deliverables for this Challenge are as follows:
 
-Deliverable 1: Add Tectonic Plate Data
-Deliverable 2: Add Major Earthquake Data
-Deliverable 3: Add an Additional Map
+- Deliverable 1: Add Tectonic Plate Data
+- Deliverable 2: Add Major Earthquake Data
+- Deliverable 3: Add an Additional Map
+
 Upload the Earthquake_Challenge folder with the following folders and files to your Mapping_Earthquakes GitHub repository:
 
-The Earthquake_Challenge folder
+- The Earthquake_Challenge folder
 
 index.html
 static
